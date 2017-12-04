@@ -1,5 +1,5 @@
 # Threshold
-> A simple App to show image threshold Edit
+> A simple App to show image threshold
 ## What this app can do?
 It can help you easliy threshold your image, you can easy and quickly transform your colorful image into 2 bit image.
 ## How it work?
