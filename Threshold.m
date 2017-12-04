@@ -9,7 +9,7 @@ function varargout = Threshold(varargin)
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                             UPDATE
-% 2017.09.06 Frist Building
+% 2017.09.06 First Building
 % 2017.11.19 Add Save Button
 % 2017.12.04 Add Layer Function
 %
