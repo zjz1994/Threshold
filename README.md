@@ -1,7 +1,7 @@
 # Threshold
 > A simple App to show image threshold
 ## What this app can do?
-It can help you easliy threshold your image, you can easy and quickly transform your colorful image into 2 bit image.
+It can help you easliy threshold your image, you can easy and quickly transform your colorful image into bitmap.
 ## How it work?
 * First this app can load your image and use inside function transform into a mat.
 * Then the app use formula as follow to change color data to gray data
